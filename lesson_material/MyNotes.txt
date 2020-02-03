@@ -1,0 +1,15 @@
+Notes for Modern Web Design Course
+
+My project is "The History of Money"
+https://en.wikipedia.org/wiki/History_of_money
+
+Instructions to install local Git:
+https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-18-04
+>>> git user.name:  howard
+>>> git user.email:  howardbandy@gmail.com
+
+
+https://help.github.com/en/github/working-with-github-pages
+
+
+
