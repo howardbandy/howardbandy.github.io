@@ -1,0 +1,7 @@
+#  .gitignore
+#  ignore lesson lesson_material folder and all contained files
+/lesson_material
+
+#  pdffiles
+*.pdf 
+
